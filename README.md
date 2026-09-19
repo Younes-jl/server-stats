@@ -1,5 +1,5 @@
- # Server Stats
-https://github.com/Younes-jl/server-stats
+# Server Stats
+https://roadmap.sh/projects/server-stats
 ## Objective
 
 This script is designed to collect and display essential server performance and health statistics in one place. It helps administrators quickly monitor the current state of a server and identify potential resource or availability issues.
